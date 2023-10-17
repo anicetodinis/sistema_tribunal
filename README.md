@@ -62,3 +62,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+Esta projecto é referente a um CRUD feito em Laravel e para alem disso contem uma API testada com o POSTMAN
+Autor: Aniceto Dinis Munguambe
+Email: anicetodinis.ad@gmail.com
